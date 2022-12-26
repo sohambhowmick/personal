@@ -134,7 +134,8 @@ a:hover {
   font-family: 'Montserrat', sans-serif;
   color: #ffffff;
   font-size: 20px;
-  padding: 10px 20px 10px 20px;
+  padding: 10px 10px;
+  margin: 2px;
   text-decoration: none;
 }
 
